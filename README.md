@@ -1,6 +1,6 @@
 ![GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=rmunozgonzalo&layout=compact&count_private=true)
 <br>
-<h1>Galeria fotos propias </h1>
+<h1>Galería fotos propias </h1>
 <div class="container-fluid">
    <div class="col-md-4 col-sm-6">
       <div class="portfolio-item">
